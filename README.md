@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Le Sy Hoan</h1>
-<h3 align="center">I'm a coder boy</h3>
+<h3 align="center">I'm a frontend developer from VietNam</h3>
+
+- 🌱 I’m currently learning **Angurla**
+
+- 📫 How to contact me **hoanls183.it@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/joyce.lee.183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyce.lee.183/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
